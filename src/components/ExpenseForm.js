@@ -24,7 +24,7 @@ function ExpenseForm({
           />
         </div>
         <div className="form-group">
-          <label htmlFor="amount">Amount</label>
+          <label htmlFor="amount">Amount LKR</label>
           <input
             type="number"
             className="form-control"
